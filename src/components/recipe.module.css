@@ -1,0 +1,23 @@
+.recipe {
+  border-radius: 1rem;
+  margin: 1rem auto;
+  padding: .3rem .7rem;
+  background-color: rgb(240, 139, 139);
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.image {
+  border-radius: 7rem;
+  width: 25rem;
+  height: 20rem;
+  margin-bottom: 1rem;
+}
+.receipt-box {
+  display: flex;
+  flex-direction: row;
+  align-items: space-around;
+  justify-content: space-around;
+}
